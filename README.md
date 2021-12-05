@@ -30,9 +30,9 @@
   > 역할 : 모델 개발  
 
 - 건국대 단비 AI 해커톤[[Github](https://github.com/azzyjk/K-LanWire)]
-  > 기간 : 2021.02
-  > 주제 : 코로나시대 신입생을 위한 챗봇
-  > 역할 : React Native App 개발
+  > 기간 : 2021.02  
+  > 주제 : 코로나시대 신입생을 위한 챗봇  
+  > 역할 : React Native App 개발  
 
 - Naver AI Rush
   > 기간 : 2020.07~2021.08  
