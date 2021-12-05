@@ -44,6 +44,11 @@
   > 주제 : 미세먼지 생활수칙 준수를 위한 홈 IOT  
   > 역할 : React Native App 개발  
 
+- 2019 국방부오픈소스아카데미[[Github](https://github.com/azzyjk/OSAM)]
+  > 기간 : 2019.10  
+  > 주제 : 다기능 안전모 개발  
+  > 역할 : 아두이노 개발, Python을 통한 길찾기 기능 개발
+
 ## 수상 경력
 **2021 Clova AI Rush - 3등**  
   - 수상 날짜 : 2021.07  
